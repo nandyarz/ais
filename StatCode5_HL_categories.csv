@@ -1,0 +1,306 @@
+﻿StatCode5,High Level Category,Low Level Category
+A11A2TN,Tanker,Liquefied Gas (LPG/LNG) Tanker
+A11A2TQ,Tanker,Liquefied Gas (LPG/LNG) Tanker
+A11A2TZ,Tanker,Liquefied Gas (LPG/LNG) Tanker
+A11B2TG,Tanker,Liquefied Gas (LPG/LNG) Tanker
+A11B2TH,Tanker,Liquefied Gas (LPG/LNG) Tanker
+A11B2TY,Tanker,Liquefied Gas (LPG/LNG) Tanker
+A11C2LC,Tanker,Liquefied Gas (LPG/LNG) Tanker
+A12A2LP,Tanker,Chemical / Products Tanker
+A12A2TC,Tanker,Chemical / Products Tanker
+A12B2TR,Tanker,Chemical / Products Tanker
+A12C2LW,Tanker,Chemical / Products Tanker
+A12D2LV,Tanker,Chemical / Products Tanker
+A12E2LE,Tanker,Chemical / Products Tanker
+A12F2LB,Tanker,Chemical / Products Tanker
+A12G2LT,Tanker,Chemical / Products Tanker
+A13A2TS,Tanker,Chemical / Products Tanker
+A13A2TV,Tanker,Chemical / Products Tanker
+A13A2TW,Tanker,Chemical / Products Tanker
+A13B2TP,Tanker,Chemical / Products Tanker
+A13B2TU,Tanker,Chemical / Products Tanker
+A13C2LA,Tanker,Chemical / Products Tanker
+A13E2LD,Tanker,Chemical / Products Tanker
+A14A2LO,Tanker,Chemical / Products Tanker
+A14E2LJ,Tanker,Chemical / Products Tanker
+A14F2LM,Tanker,Chemical / Products Tanker
+A14G2LG,Tanker,Chemical / Products Tanker
+A14H2LH,Tanker,Chemical / Products Tanker
+A14N2LL,Tanker,Chemical / Products Tanker
+A21A2BC,Cargo,Bulk Carrier
+A21A2BG,Cargo,Bulk Carrier
+A21A2BV,Cargo,Bulk Carrier
+A21B2BO,Cargo,Bulk Carrier
+A22A2BB,Cargo,Bulk Carrier
+A22A2BN,Cargo,Bulk Carrier
+A22A2BX,Cargo,Bulk Carrier
+A22B2BQ,Cargo,Bulk Carrier
+A22B2BR,Cargo,Bulk Carrier
+A23A2BD,Cargo,Bulk Carrier
+A23A2BK,Cargo,Bulk Carrier
+A24A2BT,Cargo,Bulk Carrier
+A24B2BW,Cargo,Bulk Carrier
+A24C2BU,Cargo,Bulk Carrier
+A24D2BA,Cargo,Bulk Carrier
+A24E2BL,Cargo,Bulk Carrier
+A24G2BS,Cargo,Bulk Carrier
+A24H2BZ,Cargo,Bulk Carrier
+A31A2GA,Cargo,General Cargo
+A31A2GE,Cargo,General Cargo
+A31A2GO,Cargo,General Cargo
+A31A2GS,Cargo,General Cargo
+A31A2GT,Cargo,General Cargo
+A31A2GX,Cargo,General Cargo
+A31B2GP,Cargo,General Cargo
+A31C2GD,Cargo,General Cargo
+A32A2GF,Cargo,Container Ship (Fully Cellular)
+A33A2CC,Cargo,Container Ship (Fully Cellular)
+A33A2CR,Cargo,Container Ship (Fully Cellular)
+A33B2CP,Cargo,Container Ship (Fully Cellular)
+A34A2GR,Cargo,General Cargo
+A35A2RR,Cargo,Ro-Ro Cargo
+A35A2RT,Cargo,Ro-Ro Cargo
+A35B2RV,Cargo,Ro-Ro Cargo
+A35C2RC,Cargo,Ro-Ro Cargo
+A35D2RL,Cargo,Ro-Ro Cargo
+A36A2PR,Passenger,Ro-Ro Passenger
+A36A2PT,Passenger,Ro-Ro Passenger
+A36B2PL,Passenger,Other Passenger
+A37A2PC,Passenger,Cruise Ship
+A37B2PS,Passenger,Other Passenger
+A38A2GL,Cargo,General Cargo
+A38B2GB,Cargo,General Cargo
+A38C2GH,Cargo,General Cargo
+A38C3GH,Cargo,General Cargo
+A38C3GY,Cargo,General Cargo
+A38D2GN,Cargo,General Cargo
+A38D2GZ,Cargo,General Cargo
+A38H2GU,Cargo,General Cargo
+B11B2FV,Fishing,Fishing
+B12A2FF,Fishing,Fishing
+B12B2FC,Fishing,Fishing
+B12D2FM,Fishing,Fishing
+B12D2FP,Fishing,Fishing
+B12D2FR,Fishing,Fishing
+B12D2FU,Fishing,Fishing
+B12E2FX,Fishing,Fishing
+B12F2FW,Fishing,Fishing
+B12G2FK,Fishing,Fishing
+B12H2FY,Fishing,Fishing
+B21A2OC,Work Vessel (Non-Fishing),Other Work Vessels
+B21A2OP,Work Vessel (Non-Fishing),Other Work Vessels
+B21A2OS,Work Vessel (Non-Fishing),Other Work Vessels
+B21B2OA,Work Vessel (Non-Fishing),Other Work Vessels
+B21B2OT,Work Vessel (Non-Fishing),Other Work Vessels
+B22A2OR,Work Vessel (Non-Fishing),Other Work Vessels
+B22A2OV,Work Vessel (Non-Fishing),Other Work Vessels
+B22A2ZA,Work Vessel (Non-Fishing),Other Work Vessels
+B22A2ZM,Work Vessel (Non-Fishing),Other Work Vessels
+B22B2OD,Work Vessel (Non-Fishing),Other Work Vessels
+B22C2OQ,Work Vessel (Non-Fishing),Other Work Vessels
+B22C2OX,Work Vessel (Non-Fishing),Other Work Vessels
+B22D2OZ,Work Vessel (Non-Fishing),Other Work Vessels
+B22E2OF,Work Vessel (Non-Fishing),Other Work Vessels
+B22E2OG,Work Vessel (Non-Fishing),Other Work Vessels
+B22F2OW,Work Vessel (Non-Fishing),Other Work Vessels
+B22G2OY,Work Vessel (Non-Fishing),Other Work Vessels
+B22H2OF,Work Vessel (Non-Fishing),Other Work Vessels
+B22H2OK,Work Vessel (Non-Fishing),Other Work Vessels
+B22J2OE,Work Vessel (Non-Fishing),Other Work Vessels
+B22K2OB,Work Vessel (Non-Fishing),Other Work Vessels
+B31A2SR,Work Vessel (Non-Fishing),Towing / Pushing
+B32A2ST,Work Vessel (Non-Fishing),Towing / Pushing
+B32B2SA,Work Vessel (Non-Fishing),Towing / Pushing
+B32B2SP,Work Vessel (Non-Fishing),Other Work Vessels
+B33A2DB,Work Vessel (Non-Fishing),Other Work Vessels
+B33A2DC,Work Vessel (Non-Fishing),Other Work Vessels
+B33A2DG,Work Vessel (Non-Fishing),Other Work Vessels
+B33A2DH,Work Vessel (Non-Fishing),Other Work Vessels
+B33A2DL,Work Vessel (Non-Fishing),Other Work Vessels
+B33A2DS,Work Vessel (Non-Fishing),Other Work Vessels
+B33A2DU,Work Vessel (Non-Fishing),Other Work Vessels
+B33A2DW,Work Vessel (Non-Fishing),Other Work Vessels
+B33B2DB,Work Vessel (Non-Fishing),Other Work Vessels
+B33B2DG,Work Vessel (Non-Fishing),Other Work Vessels
+B33B2DS,Work Vessel (Non-Fishing),Other Work Vessels
+B33B2DT,Work Vessel (Non-Fishing),Other Work Vessels
+B33B2DU,Work Vessel (Non-Fishing),Other Work Vessels
+B34A2SH,Work Vessel (Non-Fishing),Other Work Vessels
+B34A2SS,Work Vessel (Non-Fishing),Other Work Vessels
+B34B2SC,Work Vessel (Non-Fishing),Other Work Vessels
+B34B2SO,Work Vessel (Non-Fishing),Other Work Vessels
+B34C2SI,Work Vessel (Non-Fishing),Other Work Vessels
+B34C2SZ,Work Vessel (Non-Fishing),Other Work Vessels
+B34D2SB,Work Vessel (Non-Fishing),Other Work Vessels
+B34D2SL,Work Vessel (Non-Fishing),Other Work Vessels
+B34E2SV,Work Vessel (Non-Fishing),Other Work Vessels
+B34E2SW,Work Vessel (Non-Fishing),Other Work Vessels
+B34E2SY,Work Vessel (Non-Fishing),Other Work Vessels
+B34F2SF,Work Vessel (Non-Fishing),Other Work Vessels
+B34G2SE,Work Vessel (Non-Fishing),Other Work Vessels
+B34H2SQ,Work Vessel (Non-Fishing),Other Work Vessels
+B34J2SD,Work Vessel (Non-Fishing),Other Work Vessels
+B34K2QT,Work Vessel (Non-Fishing),Other Work Vessels
+B34L2QU,Work Vessel (Non-Fishing),Other Work Vessels
+B34M2QS,Work Vessel (Non-Fishing),Other Work Vessels
+B34N2QP,Work Vessel (Non-Fishing),Other Work Vessels
+B34P2QV,Work Vessel (Non-Fishing),Other Work Vessels
+B34Q2QB,Work Vessel (Non-Fishing),Other Work Vessels
+B34Q2QL,Work Vessel (Non-Fishing),Other Work Vessels
+B34Q2QX,Work Vessel (Non-Fishing),Other Work Vessels
+B34R2QY,Work Vessel (Non-Fishing),Other Work Vessels
+B34S2QM,Work Vessel (Non-Fishing),Other Work Vessels
+B34T2ON,Work Vessel (Non-Fishing),Other Work Vessels
+B34T2OO,Work Vessel (Non-Fishing),Other Work Vessels
+B34T2QR,Work Vessel (Non-Fishing),Other Work Vessels
+B34U2QH,Work Vessel (Non-Fishing),Other Work Vessels
+B34V2QC,Work Vessel (Non-Fishing),Other Work Vessels
+B34W2QJ,Work Vessel (Non-Fishing),Other Work Vessels
+B34X2QA,Work Vessel (Non-Fishing),Other Work Vessels
+B34Y2QK,Work Vessel (Non-Fishing),Other Work Vessels
+B34Z2QG,Work Vessel (Non-Fishing),Other Work Vessels
+B35A2QE,Work Vessel (Non-Fishing),Other Work Vessels
+B35A2QI,Work Vessel (Non-Fishing),Other Work Vessels
+B35A2QZ,Work Vessel (Non-Fishing),Other Work Vessels
+B35B2SU,Work Vessel (Non-Fishing),Other Work Vessels
+B35B2SX,Work Vessel (Non-Fishing),Other Work Vessels
+B35C2SM,Work Vessel (Non-Fishing),Other Work Vessels
+B35D2OI,Work Vessel (Non-Fishing),Other Work Vessels
+B35E2TD,Work Vessel (Non-Fishing),Other Work Vessels
+B35E2TE,Work Vessel (Non-Fishing),Other Work Vessels
+B35E2TF,Work Vessel (Non-Fishing),Other Work Vessels
+B35F2WE,Work Vessel (Non-Fishing),Other Work Vessels
+B35X2XX,Work Vessel (Non-Fishing),Other Work Vessels
+B35Y2XV,Work Vessel (Non-Fishing),Other Work Vessels
+W11A5TC,Tanker,Chemical / Products Tanker
+W11A5TR,Tanker,Chemical / Products Tanker
+W11B5TU,Tanker,Chemical / Products Tanker
+W11C5LE,Tanker,Chemical / Products Tanker
+W11C5LO,Tanker,Chemical / Products Tanker
+W11C5LV,Tanker,Chemical / Products Tanker
+W11D5TG,Tanker,Chemical / Products Tanker
+W12A5BT,Cargo,Bulk Carrier
+W12A5CC,Cargo,Container Ship (Fully Cellular)
+W12A5GC,Cargo,General Cargo
+W12A5GD,Cargo,General Cargo
+W12B5GF,Cargo,General Cargo
+W12C5RR,Cargo,Ro-Ro Cargo
+W12D5PR,Passenger,Ro-Ro Passenger
+W12D5PT,Passenger,Ro-Ro Passenger
+W12E5PC,Passenger,Cruise Ship
+W12E5PS,Passenger,Other Passenger
+W13A5FV,Fishing,Fishing
+W13B5SR,Work Vessel (Non-Fishing),Other Work Vessels
+W13C5ST,Work Vessel (Non-Fishing),Towing / Pushing
+W13D5DU,Work Vessel (Non-Fishing),Other Work Vessels
+W13E5LR,Work Vessel (Non-Fishing),Other Work Vessels
+W13E5QQ,Work Vessel (Non-Fishing),Other Work Vessels
+X11A2YH,Non-Merchant Ships,Non-Merchant Ships
+X11A2YP,Non-Merchant Ships,Non-Merchant Ships
+X11A2YS,Non-Merchant Ships,Non-Merchant Ships
+X11B2QN,Non-Merchant Ships,Non-Merchant Ships
+X11C2AA,Non-Merchant Ships,Non-Merchant Ships
+X11C2AD,Non-Merchant Ships,Non-Merchant Ships
+X11C2AP,Non-Merchant Ships,Non-Merchant Ships
+X11C2AS,Non-Merchant Ships,Non-Merchant Ships
+X11C2AT,Non-Merchant Ships,Non-Merchant Ships
+X11C2AU,Non-Merchant Ships,Non-Merchant Ships
+X11C2AV,Non-Merchant Ships,Non-Merchant Ships
+X11C2MA,Non-Merchant Ships,Non-Merchant Ships
+X11C2MB,Non-Merchant Ships,Non-Merchant Ships
+X11C2MD,Non-Merchant Ships,Non-Merchant Ships
+X11C2MH,Non-Merchant Ships,Non-Merchant Ships
+X11C2ML,Non-Merchant Ships,Non-Merchant Ships
+X11C2MM,Non-Merchant Ships,Non-Merchant Ships
+X11C2MN,Non-Merchant Ships,Non-Merchant Ships
+X11C2MP,Non-Merchant Ships,Non-Merchant Ships
+X11C2MR,Non-Merchant Ships,Non-Merchant Ships
+X11C2MT,Non-Merchant Ships,Non-Merchant Ships
+X11C2MU,Non-Merchant Ships,Non-Merchant Ships
+X11C2MV,Non-Merchant Ships,Non-Merchant Ships
+X11C2NA,Non-Merchant Ships,Non-Merchant Ships
+X11C2NB,Non-Merchant Ships,Non-Merchant Ships
+X11C2NC,Non-Merchant Ships,Non-Merchant Ships
+X11C2ND,Non-Merchant Ships,Non-Merchant Ships
+X11C2NE,Non-Merchant Ships,Non-Merchant Ships
+X11C2NF,Non-Merchant Ships,Non-Merchant Ships
+X11C2NG,Non-Merchant Ships,Non-Merchant Ships
+X11C2NH,Non-Merchant Ships,Non-Merchant Ships
+X11C2NK,Non-Merchant Ships,Non-Merchant Ships
+X11C2NU,Non-Merchant Ships,Non-Merchant Ships
+X11C2NW,Non-Merchant Ships,Non-Merchant Ships
+X11C2NX,Non-Merchant Ships,Non-Merchant Ships
+X11C2NY,Non-Merchant Ships,Non-Merchant Ships
+X11C3MX,Non-Merchant Ships,Non-Merchant Ships
+X11C3NI,Non-Merchant Ships,Non-Merchant Ships
+X11C3NL,Non-Merchant Ships,Non-Merchant Ships
+X11C3NT,Non-Merchant Ships,Non-Merchant Ships
+X11C4NS,Non-Merchant Ships,Non-Merchant Ships
+X11D2QT,Non-Merchant Ships,Non-Merchant Ships
+X11D2XA,Non-Merchant Ships,Non-Merchant Ships
+X11D2XL,Non-Merchant Ships,Non-Merchant Ships
+X11D2XM,Non-Merchant Ships,Non-Merchant Ships
+X11D2XR,Non-Merchant Ships,Non-Merchant Ships
+X11D2XS,Non-Merchant Ships,Non-Merchant Ships
+Y11A5BA,Others,Others
+Y11A5BH,Others,Others
+Y11A5BT,Others,Others
+Y11A5FH,Others,Others
+Y11A5GC,Others,Others
+Y11A5LA,Others,Others
+Y11A5LS,Others,Others
+Y11A5QJ,Others,Others
+Y11A5QO,Others,Others
+Y11A5SH,Others,Others
+Y11A5SX,Others,Others
+Y11A5TC,Others,Others
+Y11A5TG,Others,Others
+Y11A5TN,Others,Others
+Y11A5TP,Others,Others
+Y11A5TR,Others,Others
+Y11A5TV,Others,Others
+Y11B3DC,Others,Others
+Y11B3WJ,Others,Others
+Y11B4DB,Others,Others
+Y11B4DC,Others,Others
+Y11B4DG,Others,Others
+Y11B4DS,Others,Others
+Y11B4DU,Others,Others
+Y11B4DW,Others,Others
+Y11B4SC,Others,Others
+Y11B4WE,Others,Others
+Y11B4WG,Others,Others
+Y11B4WL,Others,Others
+Y11B4WO,Others,Others
+Y11B4WS,Others,Others
+Y11B4WT,Others,Others
+Y11B4WV,Others,Others
+Y11B4WW,Others,Others
+Y11B4XX,Others,Others
+Y11B5WW,Others,Others
+Z11A4PR,Others,Others
+Z11A4PS,Others,Others
+Z11A4SJ,Others,Others
+Z11A4SK,Others,Others
+Z11A4SQ,Others,Others
+Z11B4WA,Others,Others
+Z11B4WF,Others,Others
+Z11B4WM,Others,Others
+Z11C3ZA,Others,Others
+Z11C3ZE,Others,Others
+Z11C3ZG,Others,Others
+Z11C3ZK,Others,Others
+Z11C3ZM,Others,Others
+Z11C3ZP,Others,Others
+Z11C4ZA,Others,Others
+Z11C4ZC,Others,Others
+Z11C4ZD,Others,Others
+Z11C4ZM,Others,Others
+Z11C4ZP,Others,Others
+Z11C4ZS,Others,Others
+Z11C4ZU,Others,Others
+Z11C4ZW,Others,Others
+Z11D4XN,Others,Others
+Z11E4WK,Others,Others
+Z11F2XZ,Others,Others
+Z11G4XY,Others,Others

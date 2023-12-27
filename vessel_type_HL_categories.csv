@@ -1,0 +1,27 @@
+﻿vessel_type,High Level Category,Low Level Category
+Dredging,Work Vessel (Non-Fishing),Other Work Vessels
+Fishing,Fishing,Fishing
+Cargo,Cargo,Cargo
+Military,Non-Merchant Ships,Non-Merchant Ships
+Pleasure Craft,Non-Merchant Ships,Non-Merchant Ships
+Law Enforcement,Non-Merchant Ships,Non-Merchant Ships
+HSC,Non-Merchant Ships,Non-Merchant Ships
+Tanker,Tanker,Tanker
+Port Tender,Work Vessel (Non-Fishing),Other Work Vessels
+WIG,Work Vessel (Non-Fishing),Other Work Vessels
+Diving,Others,Others
+Sailing,Others,Others
+Pilot,Others,Others
+Vessel With Anti-Pollution Equipment,Others,Others
+Other,Others,Others
+SAR,Others,Others
+Reserved,Others,Others
+Spare,Others,Others
+Passenger,Passenger,Passenger
+Tug,Work Vessel (Non-Fishing),Towing / Pushing
+Towing,Work Vessel (Non-Fishing),Towing / Pushing
+UNAVAILABLE,Unknown,Unknown
+Unknown,Unknown,Unknown
+Not Available,Unknown,Unknown
+Ships Not Party to Armed Conflict,Others,Others
+Medical Transport,Others,Others
